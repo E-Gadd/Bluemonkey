@@ -1,0 +1,7 @@
+	Current Tasks:
+		-Impliment tiles
+		-Work towards building a start area
+		
+	Long Term Goals:
+		-Templates for farm to choose.
+		-Get married, have kid, become kid.
